@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Guy;I+am+a+CSS%2CHTML+coder;I+create+many+websites)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Guy;I+am+a+CSS+and+HTML+coder;I+create+many+websites+that+contain+unblockers+or+exploits)
 
 <h1>Dark Hub Server</h1>
 <h3>V2 | A unblocked site for surfing the web without censorship</h3>
