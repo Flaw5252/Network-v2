@@ -5,7 +5,7 @@
 <p>
 Credits:
 
-Guy:Developer/Owner/Founder
+Guy: Developer/Owner/Founder
  </p>
 
 
